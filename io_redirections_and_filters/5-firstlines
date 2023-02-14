@@ -1,0 +1,2 @@
+#!/bin/bas
+sed -n "1,10p" /etc/passwd | cat -n
